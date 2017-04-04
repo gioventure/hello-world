@@ -1,2 +1,2 @@
 # hello-world
-Hello World activity for getting started in GitHub
+I'm taking Java 2, it's pretty lit.
